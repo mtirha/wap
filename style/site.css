@@ -1,0 +1,35 @@
+li {
+  padding: 2px;
+  margin-left: 40px;
+}
+a{
+  text-decoration: none;
+}
+
+body {
+  background-color: whitesmoke;
+}
+#header{
+  background-color: black;
+  color:white;
+}
+
+
+footer {
+  text-align: center;
+  background-color: lightgray;
+  color: gray;
+  position:fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+img{
+  width: 140px;
+  height: 140px;
+  border-radius: 30%;
+}
+#footImg{
+  height: 40px;
+  width: 60px;
+}
